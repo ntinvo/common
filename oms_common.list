@@ -1,0 +1,11 @@
+git
+tar
+wget
+sudo
+libaio
+numactl
+psmisc
+nano
+which
+nmap-ncat
+buildah
